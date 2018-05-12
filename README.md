@@ -12,7 +12,7 @@ IBM Watson™ IoT Platform provides powerful application access to IoT devices a
 **Architecture of the Watson IoT Platform**
 
 
-Format: ![Alt Text](https://console.bluemix.net/docs/api/content/services/IoT/images/architecture_platform_2.svg?lang=en-US)
+![Alt Text](https://console.bluemix.net/docs/api/content/services/IoT/images/architecture_platform_2.svg?lang=en-US)
 
 
 
