@@ -14,6 +14,8 @@ IBM Watson™ IoT Platform provides powerful application access to IoT devices a
 
 ![Alt Text](https://console.bluemix.net/docs/api/content/services/IoT/images/architecture_platform_2.svg?lang=en-US)
 
+The Watson IoT Platform communicates with your applications and devices by using the Watson IoT Platform API and the Watson IoT Platform messaging protocol. The Watson IoT Platform dashboard connects as a front-end user interface to simplify operations within the platform. Device data can be stored or used with analytics solutions.
+
 
 
 
